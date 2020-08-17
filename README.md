@@ -7,7 +7,7 @@
 - 🙋‍♂️ Love meet and working with other people
 - 👊 Current goals: Finish 'You don't know JavaScript' book from Kyle Simpson and start learning MERN stack
 
-- ⚡ Fun fact: I listen to this 🎧Spotify🎧 playlist while I'm working or studying: [<img src="https://image.flaticon.com/icons/svg/49/49097.svg" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=GaKvzdJ3QzSGVF1kvYLj3Q)
+- ⚡ Fun fact: I listen to this 🎧Spotify🎧 playlist while I'm working or studying: [<img src="https://image.flaticon.com/icons/svg/49/49097.svg" alt="codeSTACKr Spotify Playing" width="20" />](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=GaKvzdJ3QzSGVF1kvYLj3Q)
 
 ### Get in touch with me:
 
